@@ -33,6 +33,7 @@ Este é um projeto de um site de clínica médica, com um design responsivo e mo
     ```
 
 3. Abra o arquivo `index.html` em seu navegador preferido.
+4. Ou copie o link para ver o projeto no ar `https://aleckdevv.github.io/AleckDevv-projeto-medcenter.github.io/`
 
 ## Contribuição
 
